@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/max/4800/1*i8-u-V8LTTbQwTeUwLI_BQ.gif)
 <h1 align="center">Hi 👋, I'm Emanuel Correa</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
-<img aling=“right” al = “coding” width = “400” src =“https://682430.smushcdn.com/1763018/wp-content/uploads/2018/01/diseno-grafico-mitos-disenador-grafico-working.gif?lossy=1&strip=1&webp=1”>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanuelcorreaar&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelcorreaar" /> </p>
 
