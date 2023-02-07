@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Tiger Coffee](https://tigercoffee.vercel.app/)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **JAVA**
 
 - 👯 I’m looking to collaborate on [Tiger Coffee](https://tigercoffee.vercel.app/)
 
@@ -24,4 +24,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelcorreaar&show_icons=true&locale=en&layout=compact" alt="emanuelcorreaar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emanuelcorreaar&show_icons=true&locale=en" alt="emanuelcorreaar" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelcorreaar&" alt="emanuelcorreaar" /></p>
