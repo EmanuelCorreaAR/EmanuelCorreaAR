@@ -5,19 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanuelcorreaar&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelcorreaar" /> </p>
 
-- 🔭 I’m currently working on [runaID](https://www.runaid.com.ar/)
+- 🔭 I’m currently working on <a href="https://www.runaid.com.ar/" target="_blank">runaID</a>
 
 - 🌱 I’m currently learning **ASP.NET Core**
 
-- 👯 I’m looking to collaborate on [Tiger Coffee](https://tigercoffee.vercel.app/)
+- 👯 I’m looking to collaborate on <a href="https://tigercoffee.vercel.app/" target="_blank">Tiger Coffee</a>
 
 - 📫 How to reach me **correa.emanuel@outlook.com**
 
-- 🚀 [My Portfolio](https://portfolio-ema-correa.vercel.app/)
+- 🚀 Visit <a href="https://portfolio-ema-correa.vercel.app/" target="_blank">my portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/emanuel-s-correa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emanuel-s-correa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emanuel-correa-tobares-5b4b40139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emanuel-s-correa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
