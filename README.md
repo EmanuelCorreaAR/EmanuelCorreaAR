@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/4800/1*i8-u-V8LTTbQwTeUwLI_BQ.gif)
+![MasterHead](https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif)
 <h1 align="center">Hi 👋, I'm Emanuel Correa</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
