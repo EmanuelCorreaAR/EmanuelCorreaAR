@@ -1,33 +1,59 @@
-![MasterHead](https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif)
-<h1 align="center">Hi 👋, I'm Emanuel Correa</h1>
-<h3 align="center">A passionate full stack developer from Argentina</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6A00&center=true&vCenter=true&width=640&lines=Hola%2C+soy+Emanuel+Correa;Software+Engineer+en+Naranja+X;San+Luis%2C+Argentina" alt="Emanuel Correa" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emanuelcorreaar&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelcorreaar" /> </p>
+<h3 align="center">Software Engineer en <a href="https://www.naranjax.com">Naranja X</a> · San Luis, Argentina</h3>
 
-- 🔭 I’m currently working on <a href="https://www.naranjax.com">Naranja X</a>
-
-- 🌱 I’m currently learning **ASP.NET Core**
-
-- 👯 I’m looking to collaborate on <a href="https://tigercoffee.vercel.app/" target="_blank">Tiger Coffee</a>
-
-- 📫 How to reach me **correa.emanuel@outlook.com**
-
-- 🚀 Visit <a href="https://portfolio-ema-correa.vercel.app/" target="_blank">my portfolio</a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/emanuel-correa-tobares-5b4b40139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emanuel-s-correa" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/emanuel-correa-5b4b40139/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:correa.emanuel@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://portfolio-ema-correa.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="c#" width="40" height="40"/></a><a href="https://www.java.com/es/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="60" height="40"/> </a> <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*acfAKaDI7uv5GyFnJmiPhA.png" alt="mongoose" width="60" height="35"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_21a537a2f60ea582bd213cab0722cb1a/express-js.png" alt="express" width="60" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" alt="babel" width="40" height="40"/> </a> <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="35" height="35"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="35" height="35"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="insomnia" width="40" height="40"/> </a></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emanuelcorreaar&label=Profile%20views&color=ff6a00&style=flat" alt="visitas al perfil" />
+</p>
 
-<div align="center">
-<p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelcorreaar&show_icons=true&locale=en&layout=compact" alt="emanuelcorreaar" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emanuelcorreaar&show_icons=true&locale" alt="emanuelcorreaar" /></p>
+Software Engineer en Naranja X. Trabajo en el **Hub de Eventos**: una plataforma interna que concentra la experiencia del cliente, consulta eventos en tiempo real y dispara comunicaciones (email, push e in-app). El día a día es **Node**, **Angular** y **AWS**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelcorreaar&" alt="emanuelcorreaar" /></p>
- </div>
+### Ahora
 
+- 🔭 **Software Engineer en [Naranja X](https://www.naranjax.com)** — Hub de Eventos
+- 📫 **correa.emanuel@outlook.com**
+
+### Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,angular,aws,git" alt="JavaScript, TypeScript, Node.js, Angular, AWS, Git" />
+</p>
+
+**Lenguajes:** JavaScript · TypeScript  
+**App:** Node.js · Angular  
+**Cloud:** AWS  
+**Práctica:** Git
+
+### En GitHub
+
+Perfil: **[github.com/EmanuelCorreaAR](https://github.com/EmanuelCorreaAR)**
+
+<p align="center">
+  <a href="https://github.com/EmanuelCorreaAR">
+    <img src="https://github-readme-stats.shion.dev/api?username=EmanuelCorreaAR&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats de GitHub de EmanuelCorreaAR" />
+  </a>
+  <a href="https://github.com/EmanuelCorreaAR?tab=repositories">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=EmanuelCorreaAR&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados en GitHub" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/EmanuelCorreaAR">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmanuelCorreaAR&theme=tokyonight&hide_border=true" alt="Racha de contribuciones en GitHub" />
+  </a>
+</p>
