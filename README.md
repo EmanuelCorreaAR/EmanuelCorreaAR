@@ -32,7 +32,7 @@ Software Engineer en Naranja X. Actualmente colaboro en el squad de **CX-Design*
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,angular,aws,git" alt="JavaScript, TypeScript, Node.js, Angular, AWS, Git , Python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,angular,aws,git,python" alt="JavaScript, TypeScript, Node.js, Angular, AWS, Git , Python" />
 </p>
 
 **Lenguajes:** JavaScript · TypeScript  
