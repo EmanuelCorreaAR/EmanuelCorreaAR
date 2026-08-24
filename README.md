@@ -22,11 +22,11 @@
 
 ---
 
-Software Engineer en Naranja X. Actualmente colaboro en el squad de **Cx-Design** en el **Hub de Eventos**: una plataforma interna que concentra la experiencia del cliente, consulta eventos en tiempo real y dispara comunicaciones (email, push e in-app). El día a día es **Node**, **Angular** y **AWS**.
+Software Engineer en Naranja X. Actualmente colaboro en el squad de **CX-Design** en el **Hub de Eventos**: una plataforma interna que concentra la experiencia del cliente, consulta eventos en tiempo real y dispara comunicaciones (email, push e in-app). El día a día es **Node**, **Angular** y **AWS**.
 
 ### Ahora
 
-- 🔭 **Software Engineer en [Naranja X](https://www.naranjax.com)** — Hub de Eventos
+- 🔭 **Software Engineer en [Naranja X](https://www.naranjax.com)** — CX-Design
 - 📫 **correa.emanuel@outlook.com**
 
 ### Stack
