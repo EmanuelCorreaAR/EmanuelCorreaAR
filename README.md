@@ -24,7 +24,7 @@
 
 ### Sobre mí
 
-Software Engineer enfocado en **backend, sistemas y arquitectura de software**.
+Software Engineer full stack, con foco en backend, sistemas y arquitectura de software.
 
 Actualmente trabajo en **Naranja X**, dentro del squad **Help Experience**, desarrollando el **Hub de Eventos**: una plataforma interna que centraliza eventos de clientes y permite consultar, procesar y disparar comunicaciones en tiempo real.
 
